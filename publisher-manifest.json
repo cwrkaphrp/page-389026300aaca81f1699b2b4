@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "52ffe95b1626879dee12c6e6",
+  "owner": "cwrkaphrp",
+  "repo": "page-389026300aaca81f1699b2b4",
+  "title": "clashmi安卓",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "389026300aaca81f1699b2b4",
+      "a": "clashmi安卓",
+      "b": "",
+      "entity": "clashmi安卓",
+      "brand": "clashmi安卓",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9f382b22953b14e75199a1276571c564a9973f31cc31de5e1bf4d2feb748457d",
+      "content": {
+        "keyword1": "clashmi安卓",
+        "keyword2": "",
+        "primary_entity": "clashmi安卓",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi安卓提供专业安卓VPN加速服务，支持高速节点、流媒体解锁及多设备在线。立即下载官方客户端，享受稳定网络加速！",
+          "AI_DESCRIPTION": "clashmi安卓提供专业安卓VPN加速服务，支持高速节点、流媒体解锁及多设备在线。立即下载官方客户端，享受稳定网络加速！"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --deepblue: #0A2540;\n            --cyan: #00B8D4;\n        }\n        body {\n            margin: 0;\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: linear-gradient(135deg, var(--deepblue) 0%, #1E3A5F 100%);\n            color: #fff;\n            line-height: 1.7;\n            overflow-x: hidden;\n        }\n        .container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 20px;\n        }\n        h1 {\n            font-size: 2.8rem;\n            color: var(--cyan);\n            text-align: center;\n            margin: 40px 0 20px;\n        }\n        h2 {\n            font-size: 1.8rem;\n            color: var(--cyan);\n            margin: 40px 0 20px;\n            border-bottom: 2px solid rgba(0,184,212,0.2);\n            padding-bottom: 10px;\n        }\n        section {\n            background: rgba(255,255,255,0.08);\n            margin-bottom: 30px;\n            border-radius: 12px;\n            padding: 30px;\n            position: relative;\n        }\n        .stagger {\n            display: flex;\n            gap: 40px;\n            align-items: center;\n            flex-wrap: wrap;\n        }\n        .stagger-left {\n            flex: 1;\n            min-width: 280px;\n        }\n        .stagger-right {\n            flex: 1;\n            min-width: 280px;\n        }\n        ul, ol {\n            padding-left: 20px;\n        }\n        li {\n            margin: 12px 0;\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));\n            gap: 20px;\n        }\n        .plan-card {\n            background: rgba(255,255,255,0.1);\n            border-radius: 10px;\n            padding: 25px;\n            transition: transform 0.3s;\n        }\n        .plan-card.featured {\n            border: 3px solid var(--cyan);\n            transform: scale(1.03);\n        }\n        .plan-card h3 {\n            color: var(--cyan);\n            margin-top: 0;\n        }\n        .faq {\n            margin-top: 20px;\n        }\n        details {\n            background: rgba(255,255,255,0.05);\n            margin: 15px 0;\n            border-radius: 8px;\n            padding: 15px;\n        }\n        summary {\n            font-weight: bold;\n            color: var(--cyan);\n            cursor: pointer;\n        }\n        p {\n            margin: 15px 0;\n        }\n        footer {\n            background: var(--deepblue);\n            padding: 30px 20px;\n            text-align: center;\n            font-size: 0.9rem;\n        }\n        a {\n            color: var(--cyan);\n            text-decoration: none;\n            margin: 0 15px;\n        }\n        a:hover {\n            text-decoration: underline;\n        }\n        @media (max-width: 768px) {\n            h1 { font-size: 2.2rem; }\n            .stagger { flex-direction: column; }\n            .plans-grid { grid-template-columns: 1fr; }\n        }\n    </style>\n\n\n    <main class=\"container\">\n        <h1>clashmi安卓</h1>\n        \n        <section>\n            <h2>品牌简介</h2>\n            <p>clashmi安卓是一款专为安卓设备打造的VPN加速器，基于Clash协议优化，提供稳定高速的网络连接与加速服务。无论个人使用还是团队部署，我们均可满足需求，支持流媒体解锁与多设备在线。</p>\n        </section>\n\n        <section class=\"stagger\">\n            <div class=\"stagger-left\">\n                <h2>使用场景</h2>\n                <ul>\n                    <li>科学上网：轻松访问全球被屏蔽内容与网站</li>\n                    <li>游戏加速：IPLC专线优化延迟，提升竞技游戏体验</li>\n                    <li>家庭多人在线：支持多台设备同时稳定连接</li>\n                    <li>企业级定制：专属高带宽节点与路由配置</li>\n                </ul>\n            </div>\n            <div class=\"stagger-right\">\n                <h2>机场订阅优势</h2>\n                <p>clashmi安卓提供专业机场订阅服务，节点覆盖全球，速度快且稳定，是安卓用户首选的VPN客户端下载平台。</p>\n            </div>\n        </section>\n\n        <section>\n            <h2>操作说明</h2>\n            <ol>\n                <li>访问官网下载Clashmi安卓安卓客户端</li>\n                <li>安装完成使用邮箱或手机号注册账号</li>\n                <li>登录后选择推荐节点进行一键连接</li>\n                <li>配置完成后立即享受高速加速与流量使用</li>\n                <li>支持7x24在线客服，随时调整线路</li>\n            </ol>\n        </section>\n\n        <section>\n            <h2>套餐对比</h2>\n            <div class=\"plans-grid\">\n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <p><strong>¥15/月</strong> | 按年付仅需 <strong>¥150/年</strong></p>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card featured\">\n                    <h3>旗舰版</h3>\n                    <p><strong>¥35/月</strong> | 按年付仅需 <strong>¥350/年</strong></p>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <p><strong>¥85/月</strong> | 按年付仅需 <strong>¥850/年</strong></p>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"faq\">\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>clashmi安卓如何下载和安装？</summary>\n                <p>请访问官网下载官方安卓客户端，安装后使用注册邮箱或手机号完成账号激活，选择节点即可连接使用。</p>\n            </details>\n            <details>\n                <summary>clashmi安卓支持哪些流媒体解锁？</summary>\n                <p>旗舰版以上套餐均支持原生解锁Netflix、YouTube、Disney+等主流流媒体平台，基础版可解锁部分内容。</p>\n            </details>\n            <details>\n                <summary>如何选择适合的套餐？</summary>\n                <p>个人用户推荐基础版或旗舰版，家庭或企业用户可选择团队版支持更多设备与定制服务。</p>\n            </details>\n            <details>\n                <summary>clashmi安卓年付价格如何？</summary>\n                <p>所有套餐均支持年付，年付价格仅为月付对应金额的10倍，更加经济实惠。</p>\n            </details>\n            <details>\n                <summary>售后服务与节点质量如何保障？</summary>\n                <p>旗舰版及以上提供7x24优先工单支持，团队版包含专属客户经理与VIP高带宽节点。</p>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 2024 clashmi安卓 官网客户端下载</p>\n        <a href=\"#\">隐私政策</a>\n        <a href=\"#\">用户协议</a>\n        <a href=\"#\">友情链接</a>\n        <a href=\"#\">sitemap</a>\n    </footer>\n\n",
+          "hash": "fbaf0fae06e507dc2af1f10f6ab81c28be5ff3bbe6d170caa6f60ec1237f35d9",
+          "seo": {
+            "title": "clashmi安卓 - 安卓VPN加速器 客户端下载",
+            "keywords": "clashmi安卓,安卓VPN,机场,客户端下载,VPN加速器,流媒体解锁",
+            "description": "clashmi安卓提供专业安卓VPN加速服务，支持高速节点、流媒体解锁及多设备在线。立即下载官方客户端，享受稳定网络加速！"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jinghaiqiche.cn",
+    "host": "p-d48e0effdb.jinghaiqiche.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "e417d9df493f3d15b9f6508547bacf043043edefd46ceb3cc386cb5f4d7ea20e",
+    "sitemap.xml": "44adc6185e219d1e05a4653ffc1524d6563cf0504739173622125866a5f9ab28",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "56afe2ef10c7f4de28656d8c5f4a41e6c15c1f52724c17c81a72fd14067dc8c8",
+    "robots.txt": "cfc7090fe4919d985e382d9e4e62ffa3ee79bd842dfb3c131ac20a004b40c38a",
+    "4a750153ee0dd932706464a3ab37450d.txt": "6da6cc4b1934b797fa7cd7388214a2be0a8c18b4d537e14bb6ce87a3137e5c2e"
+  },
+  "revision": "0d62621298dd38f46f5e4c881e82f923a49b0d5c585219ac910094ee95ebce1e"
+}
